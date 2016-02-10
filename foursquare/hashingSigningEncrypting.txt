@@ -1,0 +1,63 @@
+M. David Bennett Jr.
+Hashing, signing, and Encrypting
+
+I completed all of the preceding steps.
+Public key:
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2.0.22 (GNU/Linux)
+
+mQENBFan4c4BCADntMTOX8uZ6JDJLzMYGihLC3fnlK/EwJmJ35o0lDj2EZclxDp3
+1Hz17G+OpznEDuoJhThXdLICGCAvL5ctwQ+FWZpyYmTu9Q04RxXzgYFR5DRCGqJ0
+Zvrv/IUdYPqcIEoZIZZhKumNkXWY0erezurjTSwmsXPnKTUAYUAScto6/N7DQRoX
+D85F4mR1fHNmk2cYvGP5+Lh4W4aj6YaZz4q3tHUlGtCmNSfhOPa64yBzG5vU+A52
+ncuXqDRQbLiwC6So8N8GuwNLPWb8kO0PcinNV96Ye1Fr2ZXdziw2o5rbpB1N5OfJ
+ELPrSO074Pr2OxIvfnKVNL7kcAXADvHBuzj/ABEBAAG0VU1hdHRoZXcgRGF2aWQg
+QmVubmV0dCBKci4gKGdlbmVyYXRpbmcgYSBrZXkgcGFpciBmb3IgQ1M0NjIgbGFi
+KSA8c2tpYnVtOTA5QGdtYWlsLmNvbT6JATgEEwECACIFAlan4c4CGwMGCwkIBwMC
+BhUIAgkKCwQWAgMBAh4BAheAAAoJEOo0GUG8WaCLrIIH/A5DJKttdqJEyXvvXlKP
+MfotwSdXX7/o8bpBulk06430n95eQS/TcD2buVdp0MNCCGAO6KWh2t9RSEDUfdXS
+8Ro9qS43mew6Or7vfEZcrGHEJstiP5wNEWlF0iayzusYwBndAcb2dqpKcusQKkEk
+ztHo2Zf1MVe6HZBA8u+CF5dsC757V8afGZ2W4hYeR3PAMTfh6SCdJuYdVc7J5/1H
+5Dn2CpWVxoqnJjrio+TvGmc1d43OzqFGFLLLFSa7zcaMV+Ng93MnTiHx1os5HiUh
+DbeLmzhD/DSTd2Z9q4zC76u0ab6MlLHiNYks9nxzZeV1ud8WVIZnKaDV3CTgO8qZ
+xSy5AQ0EVqfhzgEIALsQTsLiqGV695u02AZBBznWk0qN0LXjfv5oJ/CJo/QUFdK8
+QBF5F8cl/nqwMIG4cyCDrBOP1WPkHKD2Z0uHefZngh1Zub81Rr29WhOOBttVBVwd
+93ahS6vr+I12BNiqarsyZTJNlEKkpEeofoJTzcmVtog0YZ1Jhcau30F97HhO07Rt
+LAoYtPXqmvQD8wZbEfrLfe56akN4vgAj1PmpPtcMkP8eV9d1QsWzFgCm/21XcSkw
+DsX7TupTcPn8IMVSKOeoCUm5vnNzQ/x5OcBp5jWD3i7wVgaHWJF7I7hr3n1QMsBT
+AU13A9HMuHE2UAwL9AjIZe1VVyhIDgb91LJi9GkAEQEAAYkBHwQYAQIACQUCVqfh
+zgIbDAAKCRDqNBlBvFmgi3pUB/9mL7xr6mPexM7DXHZsa9UpzWw32Ts0KrUugZPr
+WINuVyVYd+GoTXYFn/M6RQC14Y7iv4VnK3JYySP+9yxz0mBe0vz8wTHsOuvkFjGQ
+6R+qVxV8rrCakAH57Gu0FPfoFOUTjpVVHGaHk/MzSOuYOh6Y4wAhoM8nUIMfJM7q
+PfhdIKEcvQ6obu9lDeKSJLtduz6zE1tST/4BNqq16MTlZsFFcMeo5qKB6dgVkNTO
+tiFb6miFhQNOTwrjq3m03RFgMSRsLw65/GgOweR208IuaFe+TjOhHaCslrWYYlmq
+THLxDwws6ygdocB//1JwoS90+88+ojRc57DGv7Xv/j/Svd6M
+=ZrcA
+-----END PGP PUBLIC KEY BLOCK-----
+
+Key ID:
+BC59A08B
+
+Fingerprint:
+90CE FF24 9365 C5DD 2C2E  859C EA34 1941 BC59 A08B
+
+I sent a message to Jonathan Kline and it contained:
+“this is a test”
+
+Jonathan Kline sent me a message that contained:
+“ayyo”
+
+My Keybase.io identifier/username is:
+mbenne49
+
+A key signing party is where you all get together and sign each others keys so that you can verify that the key that you get from them is actually from them and not from someone that is impersinating them.
+
+personal digital certificate verifies that you own the public key
+
+Keybase.io gives us the ability to share keys and verify them through social media, and encrypt messages to friends. It is like a key signing party in the cloud.
+
+Keybase.io uses social networking, like allowing you to use twitter to verify the person so that you don't have to have a key signing party. 
+
+I think that the main advantages of Keybase.io are that you don't have to physically be in a location to get a public key from someone and you can still be relatively sure that the key actually came from them. It's also very easy to find friends on Keybase.io, so it's social media for public keys.
+
+I think that the main disadvantages of Keybase.io is that you still don't know that a key comes from who they say it is coming from. You might make a fake twitter account to fool someone into thinking you are someone that you aren't, just like on social media. 
